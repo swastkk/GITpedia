@@ -1,9 +1,15 @@
-.wy-nav-content {
+/* This line is for the width of content of side in Desktop mode*/
+/* 
+   .wy-nav-content {
     max-width: none;
+      } */
+html{
+  zoom: 175%;
 }
 .wy-side-nav-search{
     background-color: #2da44e;
 }
 .wy-nav-top{
   background-color: #2da44e;
+
 }
