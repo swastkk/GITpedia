@@ -3,7 +3,11 @@
    .wy-nav-content {
     max-width: none;
       } */
-
+@media screen and (min-width: 769px) {
+  html {
+    zoom: 175% ;
+  }
+}
 .wy-side-nav-search{
     background-color: #2da44e;
 }
