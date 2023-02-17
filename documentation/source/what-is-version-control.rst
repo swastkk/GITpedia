@@ -91,3 +91,87 @@ Cons
   - Does not support atomic check-outs and commits.
   - Poor support for distributed source control.
   - Does not support signed revisions and merge tracking.
+
+GITLAB
+^^^^^
+
+GitLab is one of America's fastest-growing private software companies, posting huge gains in 2022. The company provides a central server that manages Git repositories and is used to simplify the administration tasks of many corporations worldwide. According to Wikipedia, GitLab has over 100,000 users and is used by large, well-known organizations such as IBM, Sony, Goldman Sachs, and NASA.
+
+-----
+
+Best for being used as end-to-end project life cycle with Git-based tools like version control, project management, CI/CD, etc.
+
+Features
+----
+  ::
+
+    - It supports Git workflows, CI/CD integration, project management.
+    - It has over 30 million users & 100 thousand organizations.
+    - Single application for the entire DevOps life cycle.
+
+Pros
+----
+  ::
+
+   - Uses standard Git underneath for version control.
+   - Easy to use and learn.
+   - Good support (depending on the pricing tiers).
+
+Cons
+----
+  ::
+
+    - High pricing tags make it less viable for larger teams and organizations.
+
+Apache SubVersion
+^^^^
+
+Best for small to mid-sized teams who are looking for basic versioning features.
+
+Features
+----
+  :: 
+
+    - Open-source version control system.
+    - Supports merge tracking and file locking.
+
+Pros
+----
+  ::
+
+    - Well documented and maintained.
+    - Visual Highlighting helps with quick conflict resolution.
+
+Cons
+----
+  :: 
+    - Does not support basic features like Pull requests.
+    - Can’t be used as a distributed system.
+
+
+Mercurial
+^^^^^
+
+
+Best for teams of any size looking to get started with version control of their code.
+
+Features
+----
+  ::
+    - Web-based version control system.
+    - Simple branching for hassle-free development.
+
+Pros
+----
+  ::
+    
+  - Intuitive interface
+  - Good IDE support
+  - Easy to learn and use
+
+Cons
+----
+  ::
+    
+   - The in-built merging tool can get complicated when there are a lot of merging conflicts.
+   - Lack of pagination support for listing commit logs
